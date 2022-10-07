@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    background-color: rgb(207, 140, 40);
+}
+#h1styles{
+    color: rgbred,(15, 27, 95);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#h2style{
+background-color: rgb(17, 14, 231);
+    font-size: 24px;            
+}
+p{
+    color: black;
+} 
+
+.liststyles{
+    list-style: disc;
+    margin-bottom: 30px;
+    list-style-type: none;
+    
+}
+ol li a{
+    text-decoration: none;
+}
+.maindiv{
+    background-color: black;
+    width: 70;
+    margin-left: 30%;
+    padding: 10px;
+}
+.image{
+width: 100%;
+}
+#h1styles{
+    margin-top: 25px;
+}
+div{
+    width: 300px;
+    margin-left: 200px;
+}
